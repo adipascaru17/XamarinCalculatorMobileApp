@@ -1,0 +1,15 @@
+F:\tests\XamarinMobileApp\XamarinMobileApp\bin\Debug\netstandard2.0\XamarinMobileApp.deps.json
+F:\tests\XamarinMobileApp\XamarinMobileApp\bin\Debug\netstandard2.0\XamarinMobileApp.dll
+F:\tests\XamarinMobileApp\XamarinMobileApp\bin\Debug\netstandard2.0\ref\XamarinMobileApp.dll
+F:\tests\XamarinMobileApp\XamarinMobileApp\bin\Debug\netstandard2.0\XamarinMobileApp.pdb
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamarinMobileApp.csproj.AssemblyReference.cache
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamarinMobileApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamarinMobileApp.AssemblyInfoInputs.cache
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamarinMobileApp.AssemblyInfo.cs
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamarinMobileApp.csproj.CoreCompileInputs.cache
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamlC.stamp
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamarinMobileApp.dll
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\ref\XamarinMobileApp.dll
+F:\tests\XamarinMobileApp\XamarinMobileApp\obj\Debug\netstandard2.0\XamarinMobileApp.pdb
